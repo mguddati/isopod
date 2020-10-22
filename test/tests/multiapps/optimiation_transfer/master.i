@@ -20,7 +20,7 @@
   []
 []
 
-[FormFunction]
+[FormFunction] # Murthy test
   type = QuadraticMinimize
   optimization_vpp = 'opt_results'
   objective = 1.0
